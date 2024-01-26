@@ -3,4 +3,4 @@ kind: ConfigMap
 metadata:
   name: guest-book
 data:
-  ui_properties_file_name: "abhishek-interface.properties"
+  ui_properties_file_name: "abhishek01-interface.properties"
